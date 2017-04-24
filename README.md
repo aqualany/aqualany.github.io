@@ -1,2 +1,0 @@
-# aqualany.github.io
-blog
